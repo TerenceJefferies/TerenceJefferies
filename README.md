@@ -11,6 +11,7 @@ For the proceeding 10 years I spent my work and personal time developing my skil
 * [NGINX EC2 Server](https://github.com/TerenceJefferies/nginx-webserver)
 * [NGINX+Laravel EC2 Server](https://github.com/TerenceJefferies/laravel-webserver)
 * [SES Email](https://github.com/TerenceJefferies/ses-email)
+* [Three Tier VPC](https://github.com/TerenceJefferies/three-tier-vpc)
 
 <!--
 **TerenceJefferies/TerenceJefferies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
